@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 
-
-
+<img src="![image](https://github.com/user-attachments/assets/fb588873-838d-430a-a7b4-97f44f97edf1)
+" height="350%" width="400%" float="right">
 - 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **REACT JS**
